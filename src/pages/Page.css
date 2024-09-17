@@ -1,0 +1,53 @@
+.homepage{
+    background-image: url("@/assets/gradient.png");
+    background-position: center;
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+/* ____________________________________________________ */
+
+.adminpagee{
+    background-image: url("@/assets/background11.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+/* _________________________________________________________ */
+
+.chatbotPage{
+    background-image: url("@/assets/background11.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+/* _________________________________________________________ */
+
+.chatpage{
+    background-image: url("@/assets/background12.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+/* _________________________________________________________ */
+
+.browseallPage{
+    background-image: url("@/assets/background13.webp");
+    background-position: center;
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+  
